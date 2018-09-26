@@ -1,7 +1,7 @@
-id=template
-name=模块模板
-version=v1
-versionCode=1
-author=topjohnwu
-description=一个简短的描述
-minMagisk=17000
+id=201809251411
+name=氧OS的GPS定位文件换回国内
+version=v1.0.0
+versionCode=246
+author=联盟少侠
+description=201809251411
+minMagisk=1500
